@@ -14,7 +14,7 @@
 
 void	ft_print_alphabet(void)
 {
-	write(1, "abcdefghijklmnopqrstuvwxyz", 70);
+	write(1, "abcdefghijklmnopqrstuvwxyz", 26);
 }
 /*
 int main()
